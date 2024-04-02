@@ -7,5 +7,6 @@ This is the final project of Social Media and Public Opinion Analysis at Nationa
 
 •	Quantified semantic relationships in YouTube comments and Wikipedia articles by training word embeddings in three corpora to extract political biases; captured anti/pro-China channel’s negative/positive biases toward China
 
+Please see the report for more details.
 
 
